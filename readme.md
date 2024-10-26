@@ -1,7 +1,9 @@
 # haddop definitive way
 
+* hadoop install and setting - https://medium.com/@MinatoNamikaze02/installing-hadoop-on-macos-m1-m2-2023-d963abeab38e
+
 * hadoop test(hadoop qausi mode)
-  
+
 java version set to 1.8
 
 ./java/max-temperature/mvn package
